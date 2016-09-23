@@ -6,7 +6,6 @@ for (var i = 1; i <= num - 1; i++){
 	
 	temp *= i;
 
-
 }
     return console.log(temp);     
 }
